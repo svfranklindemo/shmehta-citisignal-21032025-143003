@@ -1,19 +1,19 @@
 {
     "mappings": [
-      "/content/citisignal-one-lpb/:/",
-      "/content/citisignal-one-lpb/configuration:/.helix/config.json",
-      "/content/citisignal-one-lpb/metadata:/metadata.json",
-      "/content/citisignal-one-lpb/configs:/configs.json",
-      "/content/citisignal-one-lpb/configs-stage:/configs-stage.json",
-      "/content/citisignal-one-lpb/configs-dev:/configs-dev.json",
-      "/content/citisignal-one-lpb/redirects:/redirects.json",
-      "/content/citisignal-one-lpb/placeholders:/placeholders.json",
-      "/content/citisignal-one-lpb/products/recommended-products:/products/recommended-products.json",
-      "/content/citisignal-one-lpb/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/dam/citisignal/images/products/:/images/products/"
+      "/content/shmehta/shmehta-2025-3-21-19-59-43/:/",
+      "/content/shmehta/shmehta-2025-3-21-19-59-43/configuration:/.helix/config.json",
+      "/content/shmehta/shmehta-2025-3-21-19-59-43/metadata:/metadata.json",
+      "/content/shmehta/shmehta-2025-3-21-19-59-43/configs:/configs.json",
+      "/content/shmehta/shmehta-2025-3-21-19-59-43/configs-stage:/configs-stage.json",
+      "/content/shmehta/shmehta-2025-3-21-19-59-43/configs-dev:/configs-dev.json",
+      "/content/shmehta/shmehta-2025-3-21-19-59-43/redirects:/redirects.json",
+      "/content/shmehta/shmehta-2025-3-21-19-59-43/placeholders:/placeholders.json",
+      "/content/shmehta/shmehta-2025-3-21-19-59-43/products/recommended-products:/products/recommended-products.json",
+      "/content/shmehta/shmehta-2025-3-21-19-59-43/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/shmehta/shmehta-2025-3-21-19-59-43/images/products/:/images/products/"
     ],
     "includes": [
-      "/content/citisignal-one-lpb",
+      "/content/shmehta/shmehta-2025-3-21-19-59-43",
       "/content/dam/citisignal/images/products/"
     ]
 }
